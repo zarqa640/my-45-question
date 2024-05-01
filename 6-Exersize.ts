@@ -1,4 +1,4 @@
 let whiteSpace="\n\tzarka khan\t\n"
 console.log(whiteSpace);
-let withoutWhiteSpace="zarka khan"
+let withoutWhiteSpace=whiteSpace.trim();
 console.log(withoutWhiteSpace);
